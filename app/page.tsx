@@ -9,6 +9,10 @@ export const metadata = {
   }
 };
 
+// export default function Home() {
+//   return <div>Home Page</div>;
+// }
+
 export default function HomePage() {
   return (
     <>
